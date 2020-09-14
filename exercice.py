@@ -13,8 +13,7 @@ def square(a: float) -> float:
 
 
 def average(a: float, b: float, c: float) -> float:
-    moyenne = sum()
-    (a+b+c)/3
+    moyenne = (a+b+c)/3
     return moyenne
 
 
